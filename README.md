@@ -1,2 +1,7 @@
-# api-documentation
-Podcast Search and Transcription API docs
+# Podcast Search API docs
+
+### Searching and filtering Podcasts
+
+### Requesting Podcast Transcription
+
+
